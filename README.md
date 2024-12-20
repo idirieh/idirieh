@@ -1,6 +1,6 @@
 # Hi there, I'm Idrieh! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development, open source contributions, and continuously learning new technologies.
+Welcome to my GitHub profile! a passionate tech enthusiast and lifelong learner who loves building, exploring, and sharing knowledge. Whether it’s solving problems with code, brainstorming creative solutions, or diving into new technologies, I’m always excited to learn and create.
 
 ## 🚀 About Me
 
