@@ -2,15 +2,14 @@
 
 Welcome to my GitHub profile! a passionate tech enthusiast and lifelong learner who loves building, exploring, and sharing knowledge. Whether it’s solving problems with code, brainstorming creative solutions, or diving into new technologies, I’m always excited to learn and create.
 
-## 🚀 About Me
+## 😊 About Me
 
 - 🔭 I’m currently working on: [Your current project or role]
-- 🌱 I’m currently learning: [Technologies or skills you're learning]
+- 🌱 I’m currently learning: [MERN TechStack 🚀]
 - 👯 I’m looking to collaborate on: [Projects or topics you are interested in collaborating on]
 - 💬 Ask me about: [Topics you are knowledgeable about]
-- 📫 How to reach me: [Your contact information or preferred method of communication]
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: [An interesting fact about you]
+- 📫 How to reach me: [X](https://x.com/IDirieh)
+- ⚡ Fun fact: [I am a self-taught programmer]
 
 ## 🛠️ Languages and Tools
 
